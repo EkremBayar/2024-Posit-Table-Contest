@@ -50,3 +50,5 @@ rsconnect/
 
 # SS
 /screenshot
+/screenshot/
+.png
