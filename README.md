@@ -19,3 +19,8 @@ Football clubs and fans carefully monitor players' contract expiry dates and use
 - **Code repository:** [Transfermarkt Contract Detector Shiny Application](https://github.com/EkremBayar/2024-Posit-Table-Contest)
 
 ### Screenshots
+
+![](screenshot/1.png)
+![](screenshot/2.png)
+![](screenshot/3.png)
+![](screenshot/4.png)

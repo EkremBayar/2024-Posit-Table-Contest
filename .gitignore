@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# SS
+/screenshot
+/screenshot/
+.png
